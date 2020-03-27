@@ -1,0 +1,12 @@
+50
+Pine
+20
+0
+DUB
+10
+30
+BIAROZA
+85
+50
+PALMA
+10
